@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0630633-8a05-4e6c-a3e2-2e6d6f4666e1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GdL4AW6QlrY60Oote0eFmszF8z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/whatafuckdoyouneed/WebstormProjects/education&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/03-other/17-pattern/01-creational" />
+      <recent name="$PROJECT_DIR$/03-other/17-pattern" />
+      <recent name="$PROJECT_DIR$/01-base" />
+      <recent name="$PROJECT_DIR$/02-es6" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.03-string.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/education/03-other/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="03-string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-base/03-string.js" working-dir="$PROJECT_DIR$/01-base">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01-base/05-array.js" working-dir="$PROJECT_DIR$/01-base">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-move-zeroes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05-leet-code/05-move-zeroes.js" working-dir="$PROJECT_DIR$/05-leet-code">
+      <method v="2" />
+    </configuration>
+    <configuration name="08-reverse-string.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/05-leet-code/08-reverse-string.js" working-dir="$PROJECT_DIR$/05-leet-code">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.03-string.js" />
+        <item itemvalue="Node.js.08-reverse-string.js" />
+        <item itemvalue="Node.js.05-array.js" />
+        <item itemvalue="Node.js.05-move-zeroes.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0630633-8a05-4e6c-a3e2-2e6d6f4666e1" name="Changes" comment="" />
+      <created>1666713321054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666713321054</updated>
+      <workItem from="1666713322154" duration="9000" />
+      <workItem from="1666713349458" duration="7068000" />
+      <workItem from="1666869138693" duration="16156000" />
+      <workItem from="1667469903962" duration="13926000" />
+      <workItem from="1667574085849" duration="24298000" />
+      <workItem from="1667816688257" duration="52634000" />
+      <workItem from="1669021854129" duration="5146000" />
+      <workItem from="1670258926983" duration="924000" />
+      <workItem from="1673278627466" duration="12100000" />
+      <workItem from="1676304628472" duration="627000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
